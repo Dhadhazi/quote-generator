@@ -4,6 +4,6 @@
 
 This is a simple practice JavaScript quote genertor
 * Fething the data from API
-* DInserting a random quote into the DOM on load
+* Inserting a random quote into the DOM on load
 * Load a new quote on a button 'New Quote" 
 * Tweet the quote on with 'Twitter' button
